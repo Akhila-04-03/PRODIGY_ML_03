@@ -35,4 +35,4 @@
     - A confusion matrix visualized using seaborn shows the true vs predicted labels.
 
 12. Visualization: Finally, a heatmap of the confusion matrix is displayed using matplotlib to visualize the model's performance.
-13. ![image](https://github.com/Akhila-04-03/PRODIGY_ML_03/assets/159133840/f313de63-97c5-43f1-bb57-a3fb6072ff39)
+[image](https://github.com/Akhila-04-03/PRODIGY_ML_03/assets/159133840/f313de63-97c5-43f1-bb57-a3fb6072ff39)
