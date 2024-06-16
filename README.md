@@ -40,4 +40,4 @@
 ## Contact Information
 For any inquiries or collaboration requests, please reach out to me at:
 - Email: [akhilaraveendranpm@gmail.com](akhilaraveendranpm@gmail.com)
-- LinkedIn: [akhilaraveendranpm](https://www.linkedin.com/in/akhila-raveendran-pm))
+- LinkedIn: [akhilaraveendranpm](https://www.linkedin.com/in/akhila-raveendran-pm)
