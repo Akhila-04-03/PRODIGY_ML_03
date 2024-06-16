@@ -38,16 +38,6 @@
 ![confusion matrix](https://github.com/Akhila-04-03/PRODIGY_ML_03/assets/159133840/6c9e9b99-5265-4049-b1fd-27ec860813b0)
 
 ## Contact Information
-
-For any inquiries or discussions requests, please reach out to me at:
-
-- Email:## Contact Information
-
 For any inquiries or collaboration requests, please reach out to me at:
-
-- Email:## Contact Information
-
-For any inquiries or collaboration requests, please reach out to me at:
-
 - Email: [akhilaraveendranpm@gmail.com](akhilaraveendranpm@gmail.com)
 - LinkedIn: [akhilaraveendranpm](https://www.linkedin.com/in/akhila-raveendran-pm))
